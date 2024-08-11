@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-size: cover;
+    background-position: center;
+    border-color: black;
+    transition: background-image 0.5s ease;
+}
+.btn{
+    border-radius: 100px;
+    background-color: white;
+    outline-color: rgb(10, 9, 9);
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
